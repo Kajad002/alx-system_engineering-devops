@@ -1,0 +1,2 @@
+#!/bin/bash
+sort "root" -5-7 /etc/passwd
